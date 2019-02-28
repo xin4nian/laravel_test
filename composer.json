@@ -9,6 +9,6 @@
             "email": "670846874@qq.com"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "require": {}
 }
